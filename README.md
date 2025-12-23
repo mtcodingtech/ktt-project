@@ -36,8 +36,9 @@ This command compiles the source code into optimized static assets and server-si
 ```bash
 npm run build
 
-```bash
 npm run start
+```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
